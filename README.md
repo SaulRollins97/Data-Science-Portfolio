@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Welcome to my data science portfolio! My name is [Your Name], and I’m transitioning from a career in logistics into the world of data — my true passion.
+Welcome to my data science portfolio! My name is Saul Rollins, and I’m transitioning from a career in logistics into the world of data — my true passion.
 
 ---
 
