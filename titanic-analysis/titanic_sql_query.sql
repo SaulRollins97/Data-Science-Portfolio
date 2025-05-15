@@ -1,3 +1,3 @@
-SELECT PassengerId, Name, Sex, Age, Survived, Pclass
+SELECT PassengerId, Name, Sex, Age, Survived, Parch
 FROM titanic
 ORDER BY Name ASC;
