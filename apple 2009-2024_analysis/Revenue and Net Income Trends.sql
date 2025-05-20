@@ -1,3 +1,3 @@
 SELECT Year, Revenue, Net_Income
-FROM apple_2009-2024
+FROM Apple_20092024
 ORDER BY Year ASC;
