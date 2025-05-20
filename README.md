@@ -32,6 +32,15 @@ Welcome to my data science portfolio! My name is Saul Rollins, and I’m transit
   - `Player`, `Team`, `Pos`, `FG%`, `FT%`, `PTS`
   - Sorted by `Team` first, then `Player` alphabetically within each team.
 
+### 3. Apple Financial Analysis from 2009-2024
+- **Skills Showcased**: Data transformation and Filtering to make predictions on Upcoming Financial Numbers.
+- **Objective**: Understand Apple’s overall financial trajectory over time.
+- **Business Use**:
+  - Give stakeholders a “first glance” at Apple’s financial health.
+  - Helps analysts forecast future trends based on past performance.
+  - Detect periods where costs rose faster than revenue or profitability improved despite lower sales.
+  
+
 ---
 
 ## 🛠️ Technologies Used
