@@ -1,4 +1,4 @@
-﻿year,EBITDA (millions),Revenue (millions),Gross Profit (millions),Op Income (millions),Net Income (millions),EPS,Shares Outstanding,Year Close Price,Total Assets (millions),Cash on Hand (millions),Long Term Debt (millions),Total Liabilities (millions),Gross Margin,PE ratio,Employees
+﻿year,EBITDA,Revenue,Gross Profit,Op Income,Net Income ,EPS,Shares Outstanding,Year Close Price,Total Assets,Cash on Hand,Long Term Debt,Total Liabilities,Gross Margin,PE ratio,Employees
 2024,"$134,661","$391,035","$180,683","$123,216","$93,736",$6.08,"15,408",243.04,"$364,980","$65,171","$85,750","$308,030",46.21%,39.97,"164,000"
 2023,"$125,820","$383,285","$169,148","$114,301","$96,995",$6.13,"15,813",191.5919,"$352,583","$61,555","$95,281","$290,437",45.03%,29.84,"161,000"
 2022,"$130,541","$394,328","$170,782","$119,437","$99,803",$6.11,"16,326",128.5816,"$352,755","$48,304","$98,959","$302,083",43.06%,21.83,"164,000"
